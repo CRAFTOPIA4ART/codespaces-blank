@@ -1,0 +1,20 @@
+ClerkaLink/
+│
+├── README.md                  ← App overview
+├── app/                       ← App source code
+│   ├── index.html             ← Web entry point
+│   ├── style.css              ← Styling
+│   └── script.js              ← Frontend logic
+├── backend/                   ← (Optional backend logic)
+│   └── server.js              ← Node.js server or API
+├── services/
+│   ├── admin_services.md
+│   └── brokerage_services.md
+├── branding/
+│   ├── logo.png
+│   └── brand-guidelines.md
+├── business-plan/
+│   └── ClerkaLink_Business_Plan.docx
+├── pitch-deck/
+│   └── ClerkaLink_Pitch_Deck.pdf
+└── LICENSE
